@@ -1,1 +1,1 @@
-# This is description of this repo pushed from locam machine
+# This is description of this repo pushed from local machine
